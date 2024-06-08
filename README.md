@@ -1,2 +1,2 @@
-# hello
-hello is my name
+# javascriptclass
+lords is my class
